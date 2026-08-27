@@ -1,0 +1,31 @@
+/* h1 {
+    color: blue;
+    text-decoration: line-through;
+}
+body {
+    background-color: pink;
+}
+#myId {
+    background-color: blue;
+    color: white;
+}
+button {
+    background-color: blue;
+    color: white;
+}
+/* #myId {
+    color: rgb(0, 34, 255);
+    text-emphasis-color: white;
+}
+.myClass {
+    color: azure;
+    background-color: brown;
+} */
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
