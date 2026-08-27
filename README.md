@@ -56,8 +56,9 @@ Here are the interactive mini-projects developed during this learning path:
 
 Navigate to any project folder:
 
-Bash
-cd JavaScript_Journey
+   ```bash
+   cd JavaScript_Journey
+
 Open the index.html file of any project directly in your browser or run it using VS Code Live Server.
 
 🌟 Acknowledgments
