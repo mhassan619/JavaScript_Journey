@@ -60,6 +60,7 @@ Navigate to any project folder:
    cd JavaScript_Journey
    ```
 
+
 Open the index.html file of any project directly in your browser or run it using VS Code Live Server.
 
 🌟 Acknowledgments
