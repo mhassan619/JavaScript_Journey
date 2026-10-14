@@ -82,5 +82,5 @@ const profile = {
 };
 console.log(profile)
 
-console.log("5"+2);
-console.log("5"-2);
+console.log("5"+2);    // result is 52
+console.log("5"-2);    // result is 3
