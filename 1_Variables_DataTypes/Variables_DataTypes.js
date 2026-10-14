@@ -81,3 +81,6 @@ const profile = {
     bio_cap : "Apna college founder"
 };
 console.log(profile)
+
+console.log("5"+2);
+console.log("5"-2);
